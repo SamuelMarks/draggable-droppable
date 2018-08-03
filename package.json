@@ -1,0 +1,21 @@
+{
+  "name": "draggable-droppable",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/draggable-droppable.umd.js",
+  "module": "fesm5/draggable-droppable.js",
+  "es2015": "fesm2015/draggable-droppable.js",
+  "esm5": "esm5/draggable-droppable.js",
+  "esm2015": "esm2015/draggable-droppable.js",
+  "fesm5": "fesm5/draggable-droppable.js",
+  "fesm2015": "fesm2015/draggable-droppable.js",
+  "typings": "draggable-droppable.d.ts",
+  "metadata": "draggable-droppable.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

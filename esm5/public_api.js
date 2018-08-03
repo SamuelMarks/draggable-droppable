@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of draggable-droppable
+ */
+export { DraggableDroppableService } from './lib/draggable-droppable.service';
+export { DraggableDroppableComponent } from './lib/draggable-droppable.component';
+export { DraggableDroppableModule } from './lib/draggable-droppable.module';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2RyYWdnYWJsZS1kcm9wcGFibGUvIiwic291cmNlcyI6WyJwdWJsaWNfYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSwwQ0FBYyxtQ0FBbUMsQ0FBQztBQUNsRCw0Q0FBYyxxQ0FBcUMsQ0FBQztBQUNwRCx5Q0FBYyxrQ0FBa0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgZHJhZ2dhYmxlLWRyb3BwYWJsZVxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2RyYWdnYWJsZS1kcm9wcGFibGUuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9kcmFnZ2FibGUtZHJvcHBhYmxlLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9kcmFnZ2FibGUtZHJvcHBhYmxlLm1vZHVsZSc7XG4iXX0=
